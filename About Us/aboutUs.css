@@ -1,0 +1,147 @@
+
+body {
+    background-color: rgb(228, 214, 214);
+}
+
+html,body {
+    
+    overflow-x: hidden; 
+  }
+
+/* Navigation portion */
+
+#nav-portion{
+    background-color: #1B4D5A;
+    color: #a9dd19;
+  
+  }
+  
+  .logo{
+    width: 15%;
+    
+  }
+  
+     .navbar {
+      
+      background-color: #1B4D5A;
+    }
+    
+    
+    .navbar-brand {
+      
+      font-family: 'Charm', cursive;
+      
+      font-weight: bold;
+      
+    }
+    
+
+
+/* About Us  */
+.Secondary{
+    text-align:center;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 10px 10px 10px 10px;
+    background-color:#D7FCBF;
+    padding: 20px 20px 20px 20px;
+    border-radius: 0 100px 0 100px;
+    
+}
+/* About Us Heading */
+#SecHead{
+    
+    color:rgb(255, 255, 255);
+    text-shadow: -1px 1px 0 #000,
+                          1px 1px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;
+    font-family: 'Itim', cursive;
+}
+/* About Us Content */
+#ThePara{
+    
+    font-size: smaller;
+    color:rgb(0, 0, 0)
+}
+
+
+
+/* Our Developers box*/
+
+#devs{
+  margin: 10px 10px 10px 10px;
+  background-color: lightslategrey;
+}
+
+/* Our Developers box*/
+.bg-primary{
+  background-color: lightgoldenrodyellow !important;
+  border: none!important;
+}
+
+.tas {
+  border-radius: 50%;
+  width: 50%;
+  border: 1px solid rgb(0, 0, 0);
+}
+.name{
+   text-align: center;
+   font-size: 20px;
+   color:slategrey;
+}
+/* Our Developers Heading*/
+.devs-head{
+ 
+  font-size: 40px;
+  color:rgb(0, 0, 0);
+  font-family: 'Itim', cursive;
+  
+  }
+/* Our Developers Inner box*/
+.three{
+  text-align:center;
+  border: 1px solid rgb(94, 26, 221);
+  
+  background-color:lightgoldenrodyellow;
+  padding:16px 22px 16px 22px;
+  box-shadow: var(--shd,0 1px 4px rgba(0,0,0,.6));
+}
+
+
+
+
+
+/* footer portion */
+
+  #footer {
+    padding: 7% 15%;
+  
+    background-color: #28527a;
+  }
+  
+  .social-icon {
+    width: 15%;
+    padding-left: 2%;
+    padding-top: 10%;
+    }
+
+    .uttu{
+      padding-left: 10%;
+    }
+  
+  
+  .footer-image{
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+  .injection-image{
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
