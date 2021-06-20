@@ -55,6 +55,17 @@ h1 {
     padding-left: 8%;
   }
 
+  /*Video*/
+
+#video{
+  position: relative;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #daf7f7;
+  padding-bottom: 10px;
+}
+
   /* css for the search box */
 #search-box{
   width: 100%;
@@ -136,12 +147,10 @@ h1 {
   background: linear-gradient(to right, #ff105f,#ffad06);
   border: 1;
   outline: none;
-  width: 10%;
+  width: auto;
    
 
 }
-
-
 
   /*Video*/
 
@@ -153,9 +162,6 @@ h1 {
     background-color: #daf7f7;
     padding-top: 20px;
   }
-
-
-
 
 
 /*Let's Fight Back Together! wali line start*/
@@ -203,13 +209,6 @@ h1 {
 
   color:#27f58e;
 }
-
-
-
-
-
-
-
 
 
 
@@ -331,6 +330,10 @@ h1 {
     margin-right: auto;
     
   }
+
+
+
+
 
 
 
