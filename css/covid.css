@@ -59,7 +59,7 @@ h1 {
 
 #video{
   position: relative;
-  text-align: center;
+  align-items: center;
   margin-left: auto;
   margin-right: auto;
   background-color: #daf7f7;
